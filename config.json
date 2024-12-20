@@ -1,0 +1,7 @@
+{
+  "graphvizPath": "C:\\Program Files\\Graphviz\\bin\\dot.exe",
+  "packageName": "org.devopology:org.devopology.tools:2.2.3",
+  "outputPath": "dependencies.png",
+  "maxDepth": 3,
+  "repositoryUrl": "https://repo.maven.apache.org/maven2"
+}

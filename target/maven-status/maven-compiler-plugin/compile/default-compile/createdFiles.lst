@@ -1,0 +1,12 @@
+org\example\service\DependencyAnalyzer.class
+org\example\service\DependencyAnalyzerTest.class
+org\example\service\ConfigLoader.class
+org\example\service\GraphVisualizer.class
+org\example\DependencyVisualizer.class
+org\example\service\GraphVisualizerTest.class
+org\example\model\Dependency.class
+org\example\service\ConfigLoaderTest.class
+org\example\service\GraphGenerator.class
+org\example\integration\DependencyVisualizerIntegrationTest.class
+org\example\service\GraphGeneratorTest.class
+org\example\model\Config.class

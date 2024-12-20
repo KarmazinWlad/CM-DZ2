@@ -1,0 +1,7 @@
+{
+    "graphvizPath": "C:\\Program Files\\Graphviz\\bin\\dot.exe",
+    "packageName": "org.springframework:spring-core:5.3.9",
+    "outputPath": "test-image.png",
+    "maxDepth": 2,
+    "repositoryUrl": "https://repo.maven.apache.org/maven2"
+}
